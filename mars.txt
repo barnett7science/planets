@@ -4,9 +4,6 @@ The two moons may be a problem for Wolfman.
 But the mummy will appreciate the lack of humidity
 
 NEW EDITS 
-<<<<<<< HEAD
 Irina EDITS CONFLICT
-=======
-
 My edits are better. 
->>>>>>> 9622a9eae3f7c2d1075b91ee1ce72136ff5ff9ac
+
